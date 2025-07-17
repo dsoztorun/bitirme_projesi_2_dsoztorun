@@ -1,6 +1,9 @@
 ## MOBİL GÖRÜNÜME GETİRMEYİ UNUTMA!!!!!!!!!!!!!!!!!!!!!!!!
 
 
+## VİDEO ÇEEEEKKKKK!!!!!!!!
+
+
 
 
 ## Bitirme_Projesi_2 Dosyası Hakkında
