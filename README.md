@@ -8,7 +8,7 @@ Aşağıdaki bağlantıdan `.pbix` dosyasını indirebilir veya görüntüleyebi
 
 Dosyayı indirip Power BI Desktop uygulamasıyla açarak detaylı görselleştirme ve analizleri inceleyebilirsiniz.
 
-**NOT:** Rapordaki veriler .csv dosyaları eklenerek elde edilmiş olup,  **SQL** ortamında sağlamaları yapılmış ve **BİTİRME PROJESİ_SQL İLE SAĞLAMA.sql** adlı söz konusu dosya github'a eklenmiştir. 
+**NOT:** Rapordaki hesaplamaların **SQL** ortamında sağlamaları yapılmış ve **BİTİRME PROJESİ_SQL İLE SAĞLAMA.sql** adlı bir dosya olarak github'a eklenmiştir. 
 
 ## Projenin Kapsamı
 
