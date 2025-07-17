@@ -12,7 +12,11 @@ Dosyayı indirip Power BI Desktop uygulamasıyla açarak detaylı görselleştir
 
 ## Projenin Kapsamı
 
-Bu projede **"TARİŞ"** markasının verileri incelenmiştir. Eklenen dosyalarda verilerle ilgili gerekli işlemler yapılmıştır. Ardından, oluşturulan **ölçü**lerle raporun; 
+Bu projede **"TARİŞ"** markasının verileri incelenmiştir. Tablo formatına getirilerek POWER BI ortamına eklenen .csv uzantılı dosyalarda Veri Dönüştürme işlemleri için **Power Query** ortamına geçilmiştir. Sütunlarda **eksik değer** olup olmadığı **Veri Dönüştürme** → **Görünüm** → **Sütun Kalitesi** kutucuğu tıklanarak kontrol edilmiş ve hiçbir tabloda eksik değerin olmadığı görülmüştür. Daha sonra proje kapsamında talep edilen sütun, veri tipi gibi düzenlemeler gerçekleştirilmiştir. 
+
+Proje talebi doğrultusunda rapor **GİRİŞ**, **ÖZET**, **MÜŞTERİ**, **KATEGORİ** ve **KATEGORİ DETAY** sayfalarından oluşmaktadır. GİRİŞ sayfasından ÖZET, MÜŞTERİ ve KATEGORİ sayfalarına sayfa gezgini ile ulaşılmaktadır. KATEGORİ DETAY sayfasına ise KATEGORİ sayfasından geçilmektedir. 
+
+Kullandığımız tablolar arasında bağlantı sağlamak amacıyla yapılan modellemenin ardından, oluşturulan **ölçü**lerle raporun; 
 
 **ÖZET** sayfasında 
 Toplam Ciro, Toplam Satış Adedi, Toplam Sipariş Adedi, Toplam Müşteri Sayısı, Müşteri Başına Ciro, Müşteri Başına Satış Adedi ve Ortalama Sipariş Tutarı
@@ -34,5 +38,3 @@ Hazırlanan grafiklerle;
 
 **Kategori** sayfasında
 - İstanbul ili "Yaşlı" segmentli müşteri cirosunun ağaç haritası gösterilmiştir ("Genç" segmentte hiç müşteri olmaması nedeniyle, en yoğun müşteri yaş grubu olan "Yaşlı" filtrelenmiştir). **Kategori Detay** tablosunda ise, **Kategori** sayfasındaki verilerin detayına yer verilmiştir.
-
-Raporun **Giriş** sayfasından **Özet**, **Müşteri** ve **Kategori** sayfalarına, Kategori sayfasından da **Kategori Detay** sayfasına ulaşılabilmektedir.
