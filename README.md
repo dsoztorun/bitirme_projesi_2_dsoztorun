@@ -38,3 +38,5 @@ Hazırlanan grafiklerle;
 
 **Kategori** sayfasında
 - İstanbul ili "Yaşlı" segmentli müşteri cirosunun ağaç haritası gösterilmiştir ("Genç" segmentte hiç müşteri olmaması nedeniyle, en yoğun müşteri yaş grubu olan "Yaşlı" filtrelenmiştir). **Kategori Detay** tablosunda ise, **Kategori** sayfasındaki verilerin detayına yer verilmiştir.
+
+Kart ve grafiklerin olduğu sayfalarda, **Tarih**, **Bölge** ve **İl** filtreleri konulmuştur. 
