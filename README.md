@@ -4,6 +4,35 @@ Proje kapsamında hazırladığım Power BI raporu (`.pbix` uzantılı dosya), d
 
 Aşağıdaki bağlantıdan `.pbix` dosyasını indirebilir veya görüntüleyebilirsiniz:
 
-👉 [Bitirme_Projesi_2 (.pbix) Dosyasını İndir](https://drive.google.com/file/d/15Cc9Kr41jwko-z85nFwWLfno4uIPWRJ8/view?usp=sharing)
+👉 [Bitirme_Projesi_2 (.pbix) Dosyasını İndir](https://drive.google.com/file/d/1So6tm-UDbFs4KCFomeZYYxYXj92HUH7y/view?usp=sharing)
 
 Dosyayı indirip Power BI Desktop uygulamasıyla açarak detaylı görselleştirme ve analizleri inceleyebilirsiniz.
+
+**NOT:** Rapordaki veriler .csv dosyaları eklenerek elde edilmiş olup,  **SQL** ortamında sağlamaları yapılmış ve **BİTİRME PROJESİ_SQL İLE SAĞLAMA.sql** adlı söz konusu dosya github'a eklenmiştir. 
+
+## Projenin Kapsamı
+
+Bu projede **"TARİŞ"** markasının verileri incelenmiştir. Eklenen dosyalarda verilerle ilgili gerekli işlemler yapılmıştır. Ardından, oluşturulan **ölçü**lerle raporun; 
+
+**ÖZET** sayfasında 
+Toplam Ciro, Toplam Satış Adedi, Toplam Sipariş Adedi, Toplam Müşteri Sayısı, Müşteri Başına Ciro, Müşteri Başına Satış Adedi ve Ortalama Sipariş Tutarı
+
+**MÜŞTERİ** sayfasında
+Toplam Müşteri Sayısı, Tekil Müşteri Sayısı, Kadın Müşteri Sayısı ve Erkek Müşteri Sayısı kartları hazırlanmıştır. 
+
+Hazırlanan grafiklerle;
+
+**ÖZET** sayfasında 
+- Hafta içi / Hafta sonu satış tutarları
+- Saatlik satış tutarları
+- Bölgelere göre toplam satış adetleri
+
+**MÜŞTERİ** sayfasında
+- Bölgelere göre müşteri sayısı (harita ile de illere göre dağılım)
+- İstanbul ili en yüksek cirolu ilk 10 müşteri
+- Yaş gruplarına göre ciro
+
+**Kategori** sayfasında
+- İstanbul ili "Yaşlı" segmentli müşteri cirosunun ağaç haritası gösterilmiştir ("Genç" segmentte hiç müşteri olmaması nedeniyle, en yoğun müşteri yaş grubu olan "Yaşlı" filtrelenmiştir). **Kategori Detay** tablosunda ise, **Kategori** sayfasındaki verilerin detayına yer verilmiştir.
+
+Raporun **Giriş** sayfasından **Özet**, **Müşteri** ve **Kategori** sayfalarına, Kategori sayfasından da **Kategori Detay** sayfasına ulaşılabilmektedir.
