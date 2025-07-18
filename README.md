@@ -7,7 +7,7 @@
 
 Proje kapsamında hazırlann Power BI raporu (`.pbix` uzantılı dosya), dosya boyutunun 29 MB'ı aşması nedeniyle GitHub'a doğrudan yüklenememektedir. Bu nedenle, dosya Google Drive üzerinden erişime açılmıştır:
 
-👉 [Bitirme_Projesi_2 (.pbix) Dosyasını İndir](https://drive.google.com/drive/u/0/folders/1VAlrhX0HvRiVlc5vraK4iP_wsu7JPpK9)
+👉 [Bitirme_Projesi_2 (.pbix) Dosyasını İndir](https://drive.google.com/file/d/1A0hHYZQJSWcbHEpEBIrsedEzG8uQuy2X/view?usp=sharing)
 
 **NOTLAR:** 
 1. Bitirme projesindeki hesaplamaların **sağlama**larının yapıldığı **SQL dosyası** github'a eklenmiştir. 
