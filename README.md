@@ -8,15 +8,15 @@
 
 ## Bitirme_Projesi_2 Dosyası Hakkında
 
-Proje kapsamında hazırladığım Power BI raporu (`.pbix` uzantılı dosya), dosya boyutunun 29 MB'ı aşması nedeniyle GitHub'a doğrudan yüklenememektedir. Bu nedenle, dosyayı Google Drive üzerinden erişime açtım.
-
-Aşağıdaki bağlantıdan `.pbix` dosyasını indirebilir veya görüntüleyebilirsiniz:
+Proje kapsamında hazırlann Power BI raporu (`.pbix` uzantılı dosya), dosya boyutunun 29 MB'ı aşması nedeniyle GitHub'a doğrudan yüklenememektedir. Bu nedenle, dosya Google Drive üzerinden erişime açılmıştır:
 
 👉 [Bitirme_Projesi_2 (.pbix) Dosyasını İndir](https://drive.google.com/file/d/1So6tm-UDbFs4KCFomeZYYxYXj92HUH7y/view?usp=sharing)
 
-Dosyayı indirip Power BI Desktop uygulamasıyla açarak detaylı görselleştirme ve analizleri inceleyebilirsiniz.
+**NOTLAR:** 
+1. Bitirme projesindeki hesaplamaların **sağlama**larının yapıldığı **SQL dosyası** github'a eklenmiştir. 
+2. Bitirme projesi **mobil görünüm**e uyumludur.
+3. Daha önce verilen **sql ödevi** github'a yüklenmiştir.
 
-**NOT:** Rapordaki hesaplamaların **SQL** ortamında sağlamaları yapılmış ve **BİTİRME PROJESİ_SQL İLE SAĞLAMA.sql** adlı bir dosya olarak github'a eklenmiştir. 
 
 ## Projenin Kapsamı
 
