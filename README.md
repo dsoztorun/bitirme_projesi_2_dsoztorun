@@ -11,7 +11,7 @@ Proje kapsamında hazırlann Power BI raporu (`.pbix` uzantılı dosya), dosya b
 
 ## Projenin Kapsamı
 
-Bu projede **"TARİŞ"** markasının verileri incelenmiştir. Tablo formatına getirilerek POWER BI ortamına eklenen .csv uzantılı dosyalarda Veri Dönüştürme işlemleri için **Power Query** ortamına geçilmiştir. Sütunlarda **eksik değer** olup olmadığı **Veri Dönüştürme** → **Görünüm** → **Sütun Kalitesi** kutucuğu tıklanarak kontrol edilmiş ve hiçbir tabloda eksik değerin olmadığı görülmüştür. Daha sonra proje kapsamında talep edilen sütun ekleme, veri tipi değiştirme gibi düzenlemeler gerçekleştirilmiştir. Sütunlarla ilgili yapılan tüm işlemler, modelleme sayfasında her sütunun Açıklama kısmında belirtilmiştir. 
+Bu projede **"TARİŞ"** markasının verileri incelenmiştir. Tablo formatına getirilerek POWER BI ortamına eklenen .csv uzantılı dosyalarda Veri Dönüştürme işlemleri için **Power Query** ortamına geçilmiştir. Sütunlarda **eksik değer** olup olmadığı **Veri Dönüştürme** → **Görünüm** → **Sütun Kalitesi** kutucuğu tıklanarak kontrol edilmiş ve raporu etkileyecek şekilde eksik değerin olmadığı görülmüştür (Yalnızca Ürünler tablosunda ENALTKATEGORI sütununda %1 oranında boş hücre vardır ve bununla ilgili bir işlem yapılmamıştır). Daha sonra proje kapsamında talep edilen sütun ekleme, veri tipi değiştirme gibi düzenlemeler gerçekleştirilmiştir. Sütunlarla ilgili yapılan tüm işlemler, modelleme sayfasında her sütunun Açıklama kısmında belirtilmiştir. 
 
 Proje talebi doğrultusunda rapor **GİRİŞ**, **ÖZET**, **MÜŞTERİ**, **KATEGORİ** ve **KATEGORİ DETAY** sayfalarından oluşmaktadır. GİRİŞ sayfasından ÖZET, MÜŞTERİ ve KATEGORİ sayfalarına sayfa gezgini ile ulaşılmaktadır. KATEGORİ DETAY sayfasına ise KATEGORİ sayfasından geçilmektedir. 
 
