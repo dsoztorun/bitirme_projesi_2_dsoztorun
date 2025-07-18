@@ -5,9 +5,8 @@ Proje kapsamında hazırlann Power BI raporu (`.pbix` uzantılı dosya), dosya b
 [Bitirme_Projesi_2 (.pbix) Dosyasını İndir](https://drive.google.com/file/d/1o1CEsnNFPdFni_1UZYDHpfP1ADsHK_S0/view?usp=sharing)
 
 **NOTLAR:** 
-1. Bitirme projesindeki hesaplamaların **sağlama**larının yapıldığı **SQL dosyası** github'a eklenmiştir. 
-2. Bitirme projesi **mobil görünüm**e uyumludur.
-3. Daha önce verilen **sql ödevi** github'a yüklenmiştir.
+1. Bitirme projesi **mobil görünüm**e uyumludur. 
+2. Bitirme projesindeki hesaplamaların **sağlama**larının yapıldığı **SQL dosyası**, projenin sunum videosunda kullanılan `.pptx` dosyası ve daha önce verilen **sql ödevi** github'a yüklenmiştir.
 
 
 ## Projenin Kapsamı
