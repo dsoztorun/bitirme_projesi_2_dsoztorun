@@ -1,13 +1,8 @@
-## VİDEO ÇEEEEKKKKK!!!!!!!!
-
-
-
-
 ## Bitirme_Projesi_2 Dosyası Hakkında
 
 Proje kapsamında hazırlann Power BI raporu (`.pbix` uzantılı dosya), dosya boyutunun 29 MB'ı aşması nedeniyle GitHub'a doğrudan yüklenememektedir. Bu nedenle, dosya Google Drive üzerinden erişime açılmıştır:
 
-👉 [Bitirme_Projesi_2 (.pbix) Dosyasını İndir](https://drive.google.com/file/d/1A0hHYZQJSWcbHEpEBIrsedEzG8uQuy2X/view?usp=sharing)
+[Bitirme_Projesi_2 (.pbix) Dosyasını İndir](https://drive.google.com/file/d/1o1CEsnNFPdFni_1UZYDHpfP1ADsHK_S0/view?usp=sharing)
 
 **NOTLAR:** 
 1. Bitirme projesindeki hesaplamaların **sağlama**larının yapıldığı **SQL dosyası** github'a eklenmiştir. 
@@ -17,7 +12,7 @@ Proje kapsamında hazırlann Power BI raporu (`.pbix` uzantılı dosya), dosya b
 
 ## Projenin Kapsamı
 
-Bu projede **"TARİŞ"** markasının verileri incelenmiştir. Tablo formatına getirilerek POWER BI ortamına eklenen .csv uzantılı dosyalarda Veri Dönüştürme işlemleri için **Power Query** ortamına geçilmiştir. Sütunlarda **eksik değer** olup olmadığı **Veri Dönüştürme** → **Görünüm** → **Sütun Kalitesi** kutucuğu tıklanarak kontrol edilmiş ve hiçbir tabloda eksik değerin olmadığı görülmüştür. Daha sonra proje kapsamında talep edilen sütun, veri tipi gibi düzenlemeler gerçekleştirilmiştir. 
+Bu projede **"TARİŞ"** markasının verileri incelenmiştir. Tablo formatına getirilerek POWER BI ortamına eklenen .csv uzantılı dosyalarda Veri Dönüştürme işlemleri için **Power Query** ortamına geçilmiştir. Sütunlarda **eksik değer** olup olmadığı **Veri Dönüştürme** → **Görünüm** → **Sütun Kalitesi** kutucuğu tıklanarak kontrol edilmiş ve hiçbir tabloda eksik değerin olmadığı görülmüştür. Daha sonra proje kapsamında talep edilen sütun ekleme, veri tipi değiştirme gibi düzenlemeler gerçekleştirilmiştir. Sütunlarla ilgili yapılan tüm işlemler, modelleme sayfasında her sütunun Açıklama kısmında belirtilmiştir. 
 
 Proje talebi doğrultusunda rapor **GİRİŞ**, **ÖZET**, **MÜŞTERİ**, **KATEGORİ** ve **KATEGORİ DETAY** sayfalarından oluşmaktadır. GİRİŞ sayfasından ÖZET, MÜŞTERİ ve KATEGORİ sayfalarına sayfa gezgini ile ulaşılmaktadır. KATEGORİ DETAY sayfasına ise KATEGORİ sayfasından geçilmektedir. 
 
@@ -44,4 +39,4 @@ Hazırlanan grafiklerle;
 **Kategori** sayfasında
 - İstanbul ili "Yaşlı" segmentli müşteri cirosunun ağaç haritası gösterilmiştir ("Genç" segmentte hiç müşteri olmaması nedeniyle, en yoğun müşteri yaş grubu olan "Yaşlı" filtrelenmiştir). **Kategori Detay** tablosunda ise, **Kategori** sayfasındaki verilerin detayına yer verilmiştir.
 
-Kart ve grafiklerin olduğu sayfalarda, **Tarih**, **Bölge** ve **İl** filtreleri konulmuştur. 
+Kart ve grafiklerin olduğu sayfalarda, **Tarih**, **Bölge** ve **İl** filtreleri konulmuştur. Alt kısımlara filtre seçimini hatırlatan bilgi kutucuğu ile, GİRİŞ sayfasına yönlendiren butonlar eklenmiştir.
